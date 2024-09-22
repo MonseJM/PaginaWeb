@@ -1,0 +1,238 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  background: rgb(217,174,238);
+  background: radial-gradient(circle, rgba(217,174,238,1) 0%, rgba(154,85,187,1) 100%);
+}
+
+
+ 
+
+.nombre {
+    width: 330px;
+    color: rgba(0,0,0,0.4099999964237213);
+    position: absolute;
+    top: 231px;
+    left: 578px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    background: rgba(212,96,247,0.3499999940395355);
+    border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+}
+.correo {
+  width: 330px;
+  color: rgba(0,0,0,0.4099999964237213);
+  position: absolute;
+  top: 303px;
+  left: 578px;
+  font-family: Federo;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  background: rgba(212,96,247,0.3499999940395355);
+  border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+overflow: hidden;
+}
+
+.nueva_contra {
+  width: 209px;
+  color: rgba(0,0,0,0.6600000262260437);
+  position: absolute;
+  top: 350px;
+  left: 572px;
+  font-family: Federo;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  
+}
+.contraseña {
+  width: 330px;
+  color: rgba(0,0,0,0.4099999964237213);
+  position: absolute;
+  top: 372px;
+  left: 578px;
+  font-family: Federo;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+   background: rgba(212,96,247,0.3499999940395355);
+    border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+  
+}
+.fecha {
+  width: 209px;
+  color: rgba(0,0,0,0.6600000262260437);
+  position: absolute;
+  top: 428px;
+  left: 572px;
+  font-family: Federo;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;}
+
+
+  .fecha_select {
+    width: 330px;
+    color: rgba(0,0,0,0.4099999964237213);
+    position: absolute;
+    top: 453px;
+    left: 578px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+     background: rgba(212,96,247,0.3499999940395355);
+    border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  overflow: hidden;
+  }
+  .Selec_Genero {
+    width: 141px;
+    color: rgba(0,0,0,0.28999999165534973);
+    position: absolute;
+    top: 497px;
+    left: 578px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+  }
+  .GeneroM{
+    width: 83px;
+    color: rgba(0,0,0,0.4099999964237213);
+    position: absolute;
+    top: 534px;
+    left: 617px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+  }
+  .GeneroH {
+    width: 85px;
+    color: rgba(0,0,0,0.4099999964237213);
+    position: absolute;
+    top: 538px;
+    left: 730px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .GeneroMP{
+    width: 83px;
+    color: rgba(0,0,0,0.4099999964237213);
+    position: absolute;
+    top: 540px;
+    left: 560px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+  }
+  .GeneroHP {
+    width: 85px;
+    color: rgba(0,0,0,0.4099999964237213);
+    position: absolute;
+    top: 540px;
+    left: 678px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+
+  .GeneroS {
+    width: 125px;
+    color: rgba(0,0,0,0.4099999964237213);
+    position: absolute;
+    top: 540px;
+    left: 846px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+  }
+  .GeneroSP {
+    width: 125px;
+    color: rgba(0,0,0,0.4099999964237213);
+    position: absolute;
+    top: 540px;
+    left: 780px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+  }
+
+  .boton {
+    width: 152px;
+    color: rgba(0,0,0,0.6800000071525574);
+    position: absolute;
+    top: 608px;
+    left: 813px;
+    font-family: Federo;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+    background: rgba(168, 58, 202, 0.807);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    overflow: hidden;
+  }
+  
+.Cuadro {
+  width: 478px;
+  height: 579px;
+  background: rgba(234,214,250,0.5400000214576721);
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 537px;
+  border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+
+.Registro {
+  width: 153px;
+  color: rgba(0,0,0,0.6800000071525574);
+  position: absolute;
+  top: 138px;
+  left: 552px;
+  font-family: Federo;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+
