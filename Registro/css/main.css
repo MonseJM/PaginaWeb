@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  font-size: 14px;
+  font-size: 15px;
   background: rgb(217,174,238);
   background: radial-gradient(circle, rgba(217,174,238,1) 0%, rgba(154,85,187,1) 100%);
 }
@@ -14,12 +14,11 @@ body {
     width: 330px;
     color: rgba(0,0,0,0.4099999964237213);
     position: absolute;
-    top: 231px;
+    top: 200px;
     left: 578px;
     font-family: Federo;
     font-weight: Regular;
     font-size: 20px;
-    opacity: 1;
     background: rgba(212,96,247,0.3499999940395355);
     border-top-left-radius: 25px;
   border-top-right-radius: 25px;
